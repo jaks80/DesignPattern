@@ -14,6 +14,4 @@ public class AdapterPatternMain {
         System.out.println("220 volt:"+_220V.getVolts());
         System.out.println("110 volt:"+_110V.getVolts());
     }
-    
-
 }
